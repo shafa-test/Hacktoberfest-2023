@@ -1,0 +1,32 @@
+.buttons a .fa-5x{
+    font-size: 65px;
+}
+
+@media (max-width: 660px){
+    img{
+        max-width: 380px;
+    }
+    .main{
+        width: 100vw;
+    }
+    .searchBox{
+        width: 80vw;
+    }
+    
+    .search{
+        width: 80vw;
+    }
+    .buttons a{
+        padding: 5px 8px;
+        border-radius: 5px;
+    }
+    .buttons a .fa-5x{
+        font-size: 30px;
+    }
+    .main-footer{
+        font-size: 12px;
+    }
+    .botb{
+        padding-right: 100px;
+    }
+}
