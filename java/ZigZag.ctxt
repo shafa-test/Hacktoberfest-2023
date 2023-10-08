@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ZigZag
+comment1.params=s\ numRows
+comment1.target=java.lang.String\ convert(java.lang.String,\ int)
+numComments=2

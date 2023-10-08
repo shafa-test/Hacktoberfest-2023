@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=IndexOfFirstOccurrence
+comment1.params=haystack\ needle
+comment1.target=int\ strStr(java.lang.String,\ java.lang.String)
+numComments=2

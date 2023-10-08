@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=LongestCommonPrefix
+comment1.params=strs
+comment1.target=java.lang.String\ longestCommonPrefix(java.lang.String[])
+numComments=2

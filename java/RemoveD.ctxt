@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RemoveD
+comment1.params=head
+comment1.target=RemoveD.ListNode\ deleteDuplicates(RemoveD.ListNode)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=mergeTwoLists
+comment1.params=list1\ list2
+comment1.target=mergeTwoLists.ListNode\ mergeTwoLists(mergeTwoLists.ListNode,\ mergeTwoLists.ListNode)
+numComments=2

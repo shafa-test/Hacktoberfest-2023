@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Happy_Number
+comment1.params=n
+comment1.target=boolean\ isHappy(int)
+comment2.params=n
+comment2.target=int\ sum(int)
+numComments=3

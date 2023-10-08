@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Power_Of_Two
+comment1.params=n
+comment1.target=boolean\ isPowerOfTwo(int)
+numComments=2

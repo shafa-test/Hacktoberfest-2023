@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Contains_Duplicate
+comment1.params=nums
+comment1.target=boolean\ containsDuplicate(int[])
+numComments=2
