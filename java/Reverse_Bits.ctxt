@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Reverse_Bits
+comment1.params=n
+comment1.target=int\ reverseBits(int)
+numComments=2

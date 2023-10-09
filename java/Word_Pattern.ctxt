@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Word_Pattern
+comment1.params=pattern\ s
+comment1.target=boolean\ wordPattern(java.lang.String,\ java.lang.String)
+numComments=2

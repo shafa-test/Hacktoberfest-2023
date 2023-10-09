@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GCDLinkedList
+comment1.params=val
+comment1.target=ListNode(int)
+comment2.params=head
+comment2.target=ListNode\ insertGCDBetweenAdjacentNodes(ListNode)
+comment3.params=a\ b
+comment3.target=int\ gcd(int,\ int)
+comment4.params=head
+comment4.target=void\ printLinkedList(ListNode)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
